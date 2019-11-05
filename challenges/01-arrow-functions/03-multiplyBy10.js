@@ -7,7 +7,7 @@ function multiplyBy10(num) {
 
 
 
-
+const multiplyBy10 =  => num * 10
 
 
 
