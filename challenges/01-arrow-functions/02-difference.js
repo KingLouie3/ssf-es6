@@ -4,9 +4,7 @@
 
 
 
-const difference = (a,b) => {
-    return a - b;
-}
+const difference = (a, b) => a - b
 
 
 
