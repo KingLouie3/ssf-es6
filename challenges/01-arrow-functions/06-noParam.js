@@ -2,15 +2,14 @@
 // Finally, return the two strings concatenated together. Since the funciotn doesn't require any paramaters
 // you should use the empty () syntax of _ syntax.
 
+let a = 'Hi';
+let b = 'Lou';
 
-function noParam() {
-
-}
-
-
-
+const noParam = () => {
+   return a + b;
 
 
+};
 
 
 //Do not edit
